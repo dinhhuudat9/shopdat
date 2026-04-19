@@ -548,9 +548,9 @@ class App {
             <aside id="account-side-menu" class="account-side-menu" aria-hidden="true">
                 <div class="account-side-menu-head">
                     <div class="account-side-menu-brand">
-                        <a href="/" data-link class="account-side-menu-brand-link" aria-label="Sang dev">
+                        <a href="/" data-link class="account-side-menu-brand-link" aria-label="Datdev">
                             <i class="fas fa-code"></i>
-                            <span>Sang dev</span>
+                            <span>Datdev</span>
                         </a>
                     </div>
                     <button id="account-side-menu-close" class="account-side-menu-close" type="button" aria-label="Đóng menu">
